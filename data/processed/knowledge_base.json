@@ -1,0 +1,12 @@
+[
+    {
+        "source": "presentation.pptx",
+        "content": "Raydium Display AI Integration Optimizing driver performance with MCP-based LLM workflows.",
+        "category": "Technical_Slide"
+    },
+    {
+        "source": "specs.pdf",
+        "content": "Raydium Semiconductor - IC Spec Sheet\nProject: RD-AI-2026 Inference Engine\nOperating Voltage: 0.8V - 1.2V\nInterface: MIPI DSI-2\nDescription: This chip provides high-efficiency AI upscaling for mobile displays.",
+        "category": "IC_Spec"
+    }
+]
