@@ -54,3 +54,13 @@ python -m uvicorn main:app --reload
 ### 3. 驗證與測試
 * **API 文檔**：啟動後可訪問 http://127.0.0.1:8000/docs 使用 Swagger UI 進行互動式測試。
 * **MCP 整合**：可使用 MCP Inspector 驗證伺服器是否能被 AI 工具正確調用。
+
+## 📸 成果展示
+### 1. 伺服器啟動
+使用 FastAPI 與 Uvicorn 成功運行服務。
+<img width="1714" height="322" alt="image" src="https://github.com/user-attachments/assets/d21f54b3-b55f-4324-b5c8-317f17b1c114" />
+
+### 2. API 功能驗證
+透過 Swagger UI 驗證非結構化數據提取至結構化知識庫的查詢結果。
+<img width="2690" height="1242" alt="image" src="https://github.com/user-attachments/assets/cdbbd7ab-3b3c-422e-8fa6-0ed57a184c98" />
+
