@@ -1,5 +1,4 @@
-# 非結構化數據處理管道與遠端 MCP 伺服器
-**(Unstructured Data Pipeline & Remote MCP Server)**
+# Unstructured Data Pipeline & Remote MCP Server
 
 本專案實作了一套完整的數據工程工作流，旨在將企業內部雜亂的非結構化技術文件（如 PDF、PPTX）轉化為結構化的知識庫，並透過傳統 **REST API** 與現代化 **MCP (Model Context Protocol)** 協議提供給 AI Agent 使用。
 
