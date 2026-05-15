@@ -58,7 +58,7 @@ python -m uvicorn main:app --reload
 ## 📸 成果展示
 ### 1. 伺服器啟動
 使用 FastAPI 與 Uvicorn 成功運行服務。
-<img width="1714" height="322" alt="image" src="https://github.com/user-attachments/assets/d21f54b3-b55f-4324-b5c8-317f17b1c114" />
+<img width="1702" height="312" alt="image" src="https://github.com/user-attachments/assets/632a6dab-3e80-4e91-a839-f4e893c8d63f" />
 
 ### 2. API 功能驗證
 透過 Swagger UI 驗證非結構化數據提取至結構化知識庫的查詢結果。
